@@ -6,5 +6,6 @@ public class test {
         System.out.println("哈哈哈哈1");
         System.out.println("ccccccc");
         System.out.println("lalalala");
+        System.out.println("down test")
     }
 }
